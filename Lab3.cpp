@@ -28,15 +28,11 @@ int main()
     
     //declarations
     ifstream fin;
-    double ID[30];
     
     student_info eachstud[30];
-    for(int i=0; i<30; i++)
-    {
-        ID[i]=eachstud[i];
-    }
+    
     string filename;
-
+    
     //user input
     //cout << "Enter filename: ";
     //cin >> filename;
